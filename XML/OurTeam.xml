@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<employees>  
+    <employee>
+        <name>Low Zhi Lok</name>
+        <gender>Male</gender>
+        <age>21</age>     
+        <position>Founder</position>    
+        <email>low@gmail.com</email>
+        <phone >012-5879997</phone>
+        
+   </employee>
+        <employee>
+        <name>Loi Hong Theen</name>
+        <gender>Male</gender>
+        <age>21</age>   
+        <position>Back End Developer</position>    
+        <email>loi@gmail.com</email>
+        <phone >014-9456563</phone>
+           
+    </employee>
+    <employee>
+        <name>Lee Kai Mun</name>
+        <gender>Male</gender> 
+        <age>21</age>    
+        <position>Security and Tester</position>    
+        <email>lee@gmail.com</email>
+        <phone >010-9898998</phone>
+          
+    </employee>
+
+</employees>
